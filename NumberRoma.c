@@ -6,7 +6,6 @@ int main(){
     scanf("s%",&input);
 
     int valor;
-
     
 
     return 0;
